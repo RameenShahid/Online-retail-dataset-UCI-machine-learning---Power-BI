@@ -1,0 +1,2 @@
+# Online-Retail-Dataset-UCI-Machine-Learning-Repository-Power-BI-Dashboard-Insights-Visualizations
+This repository contains a Power BI dashboard for analyzing the Online Retail Dataset (UCI Machine Learning Repository). It provides key business insights using DAX measures and interactive visualizations. This main heading covers all aspects of customer behavior, purchase patterns, and monetary analysis.
