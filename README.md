@@ -1,4 +1,4 @@
-# Online-Retail-Dataset (UCI-Machine-Learning-Repository) Power-BI Dashboard Insights Visualizations
+#  🌟Online-Retail-Dataset (UCI-Machine-Learning-Repository) Power-BI Dashboard Insights Visualizations
 
 [![Logo](https://github.com/RameenShahid/Online-retail-dataset-UCI-machine-learning---Power-BI/blob/d9598c5f1cb4f39ded2972794a2af78675f53255/Logo.png)](https://github.com/RameenShahid/Online-retail-dataset-UCI-machine-learning---Power-BI/blob/d9598c5f1cb4f39ded2972794a2af78675f53255/Logo.png)
 
