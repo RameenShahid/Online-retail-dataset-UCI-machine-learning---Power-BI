@@ -1,5 +1,7 @@
 # Online-Retail-Dataset (UCI-Machine-Learning-Repository) Power-BI Dashboard Insights Visualizations
-![Visualization]([https://github.com/RameenShahid/Apple-Stock-Price-Prediction-with-XGBOOST/blob/80a9f496f249de51ca5cdd6af143b66093a16417/images/apple/Screenshot%20(430).png](https://github.com/RameenShahid/Online-retail-dataset-UCI-machine-learning---Power-BI/blob/d9598c5f1cb4f39ded2972794a2af78675f53255/Logo.png))
+
+[![Logo](https://github.com/RameenShahid/Online-retail-dataset-UCI-machine-learning---Power-BI/blob/d9598c5f1cb4f39ded2972794a2af78675f53255/Logo.png)](https://github.com/RameenShahid/Online-retail-dataset-UCI-machine-learning---Power-BI/blob/d9598c5f1cb4f39ded2972794a2af78675f53255/Logo.png)
+
 This repository contains a Power BI dashboard for analyzing the Online Retail Dataset (UCI Machine Learning Repository). It provides key business insights using DAX measures and interactive visualizations. This main heading covers all aspects of customer behavior, purchase patterns, and monetary analysis.
 ## 📊 Online Retail Analysis – Python & Power BI 🚀  
 
