@@ -15,19 +15,13 @@ This repository contains a **comprehensive analysis and dashboard** for the **On
 🔹 **DAX (Data Analysis Expressions)** – Custom calculations for business insights  
 
 ---
+#### **🔗 Explore the Full Interactive Dashboard on Power BI:**  
+[**View Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiZDYwYmRjZjEtOWY1Ni00ZjliLTkxNDgtMzU4ZjJkZGY1YTVkIiwidCI6ImNmMTVkYTg0LWYwZWQtNGRkZC04MGM3LTFiMzczMDUzMjE2NSIsImMiOjl9)
 ---
 
-#### **🔗 Explore the Full Interactive Dashboard on Tableau Public:**  
-[**View Dashboard**](https://public.tableau.com/views/30000Movies/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+### **📊 Online-Retail-Dataset (UCI-Machine-Learning-Repository) Power-BI Dashboard**  
 
-
----
-
-### **📊 Cinematic Dashboard: 30,000 Movies & 60 Years of Global Box Office Trends**  
-
-#### **🔹 Tableau Dashboard Preview**  
-[![Cinematic Dashboard](https://raw.githubusercontent.com/RameenShahid/Cinematic-Dashboard-30-000-Movies-60-Years-of-Data-Global-Box-Office-Trends/main/Dashboard%201%20(8).png)](https://public.tableau.com/views/30000Movies/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
+#### **🔹 Power-BI Dashboard Preview**  
 [![Online Retail Dataset](https://github.com/RameenShahid/Online-retail-dataset-UCI-machine-learning---Power-BI/blob/b94dc8cec43d7fbe992109de652e2d044412bb9a/Screenshot%20(524).png)](https://github.com/RameenShahid/Online-retail-dataset-UCI-machine-learning---Power-BI/blob/b94dc8cec43d7fbe992109de652e2d044412bb9a/Screenshot%20(524).png)
 
 ---
