@@ -89,6 +89,31 @@ RepeatCustomerRate = DIVIDE(DISTINCTCOUNT(Customers[CustomerID]), COUNT(Customer
 
 ---
 
+# Enhancements & Tips for Data Analysis
+
+## 1️⃣ KPIs & Summary Cards
+- **Conditional Formatting**: Implement conditional formatting to highlight performance metrics, using green for growth and red for decline.
+- **Tooltips**: Add tooltips for deeper insights, such as providing a revenue breakdown by region when hovering over data points.
+
+## 2️⃣ Sales Performance Trends
+- **Revenue Over Time**: Include a forecast line in your revenue over time analysis to predict future trends based on historical data.
+- **Sales by Day of the Week**: Utilize a heatmap instead of a column chart for better pattern recognition in sales data across different days.
+
+## 3️⃣ Customer Segmentation & Behavior
+- **RFM Analysis**: Conduct RFM (Recency, Frequency, Monetary) analysis and visualize customer segments using a clustered scatter chart.
+- **Top 10 High-Value Customers**: Create a drill-through page to analyze individual details of your top 10 high-value customers for deeper insights.
+
+## 4️⃣ Product & Order Analysis
+- **Top-Selling Products**: Display the percentage contribution of each product to total sales to highlight key revenue drivers.
+- **Order Frequency by Country**: Implement a bubble map to visualize order frequency by country for a more impactful presentation of geographical data.
+
+## 5️⃣ Discount & Pricing Insights
+- **Revenue Contribution by Price Range**: Overlay a density curve on your revenue contribution analysis to identify pricing sweet spots and optimize pricing strategies.
+
+## 6️⃣ Customer Retention & Churn Analysis
+- **New vs. Returning Customers**: Use a funnel chart to track conversion rates from new customers to loyal returning customers effectively.
+- **Churn Risk Histogram**: Apply dynamic segments (e.g., High, Medium, Low Risk) to visualize churn risk across different customer segments.
+
 ## 📢 **Contributions & Feedback**  
 💡 Feel free to fork, modify, and submit PRs  
 📩 Have suggestions? Open an issue or reach out!  
